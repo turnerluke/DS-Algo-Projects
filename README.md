@@ -9,3 +9,5 @@ Skills
 - Recursive search algorithms
 - High level Python programming (inheritance, iterables, etc)
 
+## [Adversarial Hangman](https://github.com/turnerluke/adversarial-hangman)
+A command line implementation of the classic chalkboard game, hangman. Follows similar rules, however the player has the opportunity to play as the guesser or word-maker, against another player or a self-made AI. The AI uses methods to make the game practically impossible for the player.
